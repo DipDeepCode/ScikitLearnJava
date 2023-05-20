@@ -23,6 +23,12 @@
       <version>5.9.2</version>
       <scope>test</scope>
     </dependency>
+    <!-- https://mvnrepository.com/artifact/org.pmml4s/pmml4s -->
+    <dependency>
+      <groupId>org.pmml4s</groupId>
+      <artifactId>pmml4s_3</artifactId>
+      <version>1.0.1</version>
+    </dependency>
   </dependencies>
 
   <build>
